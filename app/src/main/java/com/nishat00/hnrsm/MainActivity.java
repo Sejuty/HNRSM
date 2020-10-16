@@ -57,15 +57,20 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 else if(position == 2) {
+                    Intent nishat = new Intent(getApplicationContext(),NishatActivity.class);
+                    startActivity(nishat);
 
                     Toast.makeText(getApplicationContext(),"Place Your Third Option Code",Toast.LENGTH_SHORT).show();
                 }
                 else if(position == 3) {
+                    Intent misty = new Intent(getApplicationContext(),MistyActivity.class);
+                    startActivity(misty);
 
                     Toast.makeText(getApplicationContext(),"Place Your Forth Option Code",Toast.LENGTH_SHORT).show();
                 }
                 else if(position == 4) {
-
+                    Intent richi = new Intent(getApplicationContext(),RichiActivity.class);
+                    startActivity(richi);
                     Toast.makeText(getApplicationContext(),"Place Your Fifth Option Code", Toast.LENGTH_SHORT).show();
                 }
 
