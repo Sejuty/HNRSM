@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     ListView list;
 
     String[] maintitle ={
-            "Halima Sadia Tabassum","Mahadia Tarannum","Nishat Tafannum","Rezwana Karim Misty"," SN Richi","Tanha Tabassum","Tasnim Sharmi","Wasika Nuha"
+            "Halima Sadia Tabassum","Mahadia Tarannum","Masshuda Tabassum","Nishat Tafannum","Rezwana Karim Misty"," SN Richi","Tanha Tabassum","Tasnim Sharmi","Wasika Nuha"
     };
 
 
@@ -53,25 +53,45 @@ public class MainActivity extends AppCompatActivity {
                 else if(position == 1) {
                     Intent mahadia = new Intent(getApplicationContext(),MahadiaActivity.class);
                     startActivity(mahadia);
-                    Toast.makeText(getApplicationContext(),"Place Your Second Option Code",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Mahadia Tarannum",Toast.LENGTH_SHORT).show();
                 }
 
-                else if(position == 2) {
+                else if(position == 3) {
                     Intent nishat = new Intent(getApplicationContext(),NishatActivity.class);
                     startActivity(nishat);
 
-                    Toast.makeText(getApplicationContext(),"Place Your Third Option Code",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Nishat Tafannum",Toast.LENGTH_SHORT).show();
                 }
-                else if(position == 3) {
+                else if(position == 4) {
                     Intent misty = new Intent(getApplicationContext(),MistyActivity.class);
                     startActivity(misty);
 
-                    Toast.makeText(getApplicationContext(),"Place Your Forth Option Code",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"Rezwana Karim Misty",Toast.LENGTH_SHORT).show();
                 }
-                else if(position == 4) {
+                else if(position == 5) {
                     Intent richi = new Intent(getApplicationContext(),RichiActivity.class);
                     startActivity(richi);
-                    Toast.makeText(getApplicationContext(),"Place Your Fifth Option Code", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getApplicationContext(),"SN Richi", Toast.LENGTH_SHORT).show();
+                }
+                else if(position == 2) {
+                    Intent mash = new Intent(getApplicationContext(),MashActivity.class);
+                    startActivity(mash);
+                    Toast.makeText(getApplicationContext(),"Masshuda Tabassum", Toast.LENGTH_SHORT).show();
+                }
+                else if(position == 6) {
+                    Intent tanha = new Intent(getApplicationContext(),TanhaActivity.class);
+                    startActivity(tanha);
+                    Toast.makeText(getApplicationContext(),"Tanha Tabassum", Toast.LENGTH_SHORT).show();
+                }
+                else if(position == 7) {
+                    Intent sharmi = new Intent(getApplicationContext(),SharmiActivity.class);
+                    startActivity(sharmi);
+                    Toast.makeText(getApplicationContext(),"Tasnim Sharmi", Toast.LENGTH_SHORT).show();
+                }
+                else if(position == 8) {
+                    Intent nuha = new Intent(getApplicationContext(),NuhaActivity.class);
+                    startActivity(nuha);
+                    Toast.makeText(getApplicationContext(),"Wasika nuha", Toast.LENGTH_SHORT).show();
                 }
 
             }
