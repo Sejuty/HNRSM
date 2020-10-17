@@ -4,12 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MistyActivity extends AppCompatActivity {
+public class bHalimaActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_misty);
-        finish();
+        setContentView(R.layout.activity_b_halima);
     }
 }

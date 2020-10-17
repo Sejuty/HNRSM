@@ -1,3 +1,66 @@
 <resources>
     <string name="app_name">HNRSM</string>
+    <string name="halima_bio">
+        Name    :\nHalima Sadia Tabassum\n\n
+        Father  :\nAbul Mansur Mohammad Ishaque\n\n
+        Mother  :\nHosne Ara Begum Zinat\n\n
+        Elder Sister:\nFatema Sadia Tamanna \n\n
+        Younger Sister:\nAyesha Siddiqua Mim\n\n
+        Younger Brother:\nTalha Bin Mansur \n\n
+        Permanent Address:\nBanshkhali, Chittagong \n\n
+        Present address :\nA2, monu miazi lane, Chandanpura,Chittagong\n\n
+        College:\nChattogram College\n\n
+        University:\nChittagong Medical  College\n\n
+        Session:\n2018-19\n\n
+        Email    : aidasamilah20@gmail.com\n\n
+        Phone no.:\n01877957450, 01402495865\n\n
+
+    </string>
+    <string name="nuha_bio">
+        Name    :\nWasika Nuha\n\n
+        Father  :\nAZM Obaidullah\n\n
+        Mother  :\nRabeya Begum\n\n
+        Elder Brother:\nMusanna \n\n
+        First Younger Sister:\nNusaiba\n\n
+        Second Younger Sister:\nJumaina\n\n
+        Younger Brother:\nMuaz \n\n
+        Permanent Address:\nCharfassion, Bhola \n\n
+        Present address :\3rd floor, house 182, road 08, block-b, chandgaon R/A, Chittagong \n\n
+        College:\nChattogram College\n\n
+        University:\nChattogram International Medical College\n\n
+        Session:\n2018-19\n\n
+        Email    : wasikanuha99@gmail.com\n\n
+        Phone no.:\n01306709871\n\n
+        \n\n\n
+    </string>
+    <string name="misty_bio">Name    :\nRezwana Karim Misty\n\n
+        Father  :\nRezaul karim\n\n
+        Mother  :\nRuposhi khatun\n\n
+        First Younger Sister:\nDrishty\n\n
+        Second Younger Brother:\nMithila \n\n
+        Permanent Address:\nPabna, Rajshahi \n\n
+        Present address :\nBhaddarhat,Chittagong\n\n
+        College:\nKapashgola college\n\n
+        University:\nIIUC\n\n
+        Subject:\nComputer Engineering\n\n
+        Session:\n2019-20\n\n
+        Email    : rezwanaiiuc@gmail.com\n\n
+        Phone no.:\n01706474061\n\n
+    </string>
+    <string name="tanha_bio">
+        Name    :\nTanha Tabassum  Sheba\n\n
+        Father  :\nM.M Abdul Haque Chowdhury \n\n
+        Mother  :\nSabina Haque Chowdhury \n\n
+        Elder Younger Sister:\nFaria Haque Chowdhury \n\n
+        Younger Sister:\nSidratul Muntaha \n\n
+        Permanent Address:\nVill: sutarkanada, p.o: poradia bazar, district: faridpur \n\n
+        Present address :\nG-1/A, railway hospital colony, CRB, Chittagong \n\n
+        Address(outside Chittagong):\nRoad: 2, Block: C, Bashundhara Residential Area, Dhaka\n\n
+        College:\nChittagong Govt. Women college\n\n
+        University:\n North South University\n\n
+        Subject:\nPharmaceuticals\n\n
+        Session:\n2019-20\n\n
+        Email    : tanhatabassum.2714@gmail.com\n\n
+        Phone no.:\n01881904532\n\n
+    </string>
 </resources>
